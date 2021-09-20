@@ -1,0 +1,28 @@
+.speech {
+    font: sans-serif;
+    font-size: 18px;
+    color: black;
+    margin: 10px;
+}
+
+.stage-direction {
+    font-family: Garamond, serif;
+    font-size: 20px;
+    color: black;
+    background-color: lightblue;
+}
+
+.stage-direction:hover {
+    background-color: blue;
+    color: grey;
+}
+.name {
+    font-size: 21;
+    color: black;
+}
+.LORDGORING {
+    color: pink;
+}
+.PHIPPS {
+    color: red);
+}
