@@ -18,11 +18,30 @@
 }
 .name {
     font-size: 21;
-    color: black;
+    color: navy;
 }
 .LORDGORING {
-    color: pink;
+    color: blueviolet;
 }
 .PHIPPS {
-    color: red);
+    color: red;
+}
+.table_customised
+{
+ border: 10px;
+ border-style: solid;
+ color: brown;
+ text-align: center;
+ margin: 5px;
+ padding-left: 5px;
+ padding-right: 5px;
+}
+
+table td,th {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+tr:nth-child(even){
+    background-color: cadetblue;
 }
