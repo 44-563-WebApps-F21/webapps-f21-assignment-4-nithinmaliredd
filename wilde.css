@@ -23,6 +23,9 @@
 .LORDGORING {
     color: blueviolet;
 }
+.LORDGORING:hover {
+    color: gold;
+}
 .PHIPPS {
     color: red;
 }
