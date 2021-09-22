@@ -29,6 +29,11 @@
 .PHIPPS {
     color: red;
 }
+.PHIPPS:hover{
+    color: gold;
+    filter:blur(1px);
+    text-shadow: 8px 8px;
+}
 .table_customised
 {
  border: 10px;
